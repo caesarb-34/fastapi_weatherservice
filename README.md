@@ -1,2 +1,2 @@
 # fastapi_weatherservice
-Uses FastAPI
+Uses FastAPI to access https://openweathermap.org/
